@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Pixel Developer Working](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+![Pixel Developer Working]([https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdhanQ2Y2JmMmlvaGQxcGhkbGtqMGYwY3VqbXJiYXh5NnEyejV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif))
 
 - 🔭 I’m currently working on a Laravel project  
 - 👯 I’m looking to collaborate on web development  
