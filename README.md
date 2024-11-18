@@ -6,7 +6,7 @@
 - 🤝 I’m seeking help with front-end development  
 - 🌱 I’m currently learning cybersecurity  
 - 💬 Feel free to ask me anything  
-- ⚡ Fun fact: I love reading books about human relationships  
+- ⚡ Fun fact: I love reading books about human relation  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diodoarrahman)
@@ -60,5 +60,3 @@ Here are some of my top contributions:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=diodoarrahman&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
